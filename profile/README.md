@@ -37,7 +37,6 @@ Starcoin - a smart contract blockchain network that scales by layering
 * [starmask-extension](https://github.com/starcoinorg/starmask-extension) A blockchain wallet browser extension for starcoin
 * [dapps](https://github.com/starcoinorg/dapps) A collection of Starcoin DApp tools
 * [starcoin-discord-bot](https://github.com/starcoinorg/starcoin-discord-bot) A discord bot for starcoin blockchain
-* [starcoin-discord-bot](https://github.com/starcoinorg/starcoin-discord-bot) A discord bot for starcoin blockchain
 
 ### Framework & Library
 
