@@ -27,6 +27,7 @@ Starcoin - a smart contract blockchain network that scales by layering
 ### Ecosystem Tools
 
 * [starcoin-explorer](https://github.com/starcoinorg/starcoin-explorer) Starcoin Blockchain Explorer
+* [starcoin-explorer-api](https://github.com/starcoinorg/starcoin-search) Starcoin Blockchain Explorer API
 * [starmask-extension](https://github.com/starcoinorg/starmask-extension) A blockchain wallet browser extension for starcoin
 * [dapps](https://github.com/starcoinorg/dapps) A collection of Starcoin DApp tools
 * [starcoin-discord-bot](https://github.com/starcoinorg/starcoin-discord-bot) A discord bot for starcoin blockchain
