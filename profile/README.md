@@ -28,9 +28,15 @@ Starcoin - a smart contract blockchain network that scales by layering
 
 * [starcoin-explorer](https://github.com/starcoinorg/starcoin-explorer) Starcoin Blockchain Explorer
 * [starcoin-explorer-api](https://github.com/starcoinorg/starcoin-search) Starcoin Blockchain Explorer API
-* [starmask-extension](https://github.com/starcoinorg/starmask-extension) A blockchain wallet browser extension for starcoin
+* [starmask-extension](https://github.com/starcoinorg/starmask-extension) A blockchain wallet browser extension for Starcoin
 * [dapps](https://github.com/starcoinorg/dapps) A collection of Starcoin DApp tools
-* [starcoin-discord-bot](https://github.com/starcoinorg/starcoin-discord-bot) A discord bot for starcoin blockchain
+* [starcoin-discord-bot](https://github.com/starcoinorg/starcoin-discord-bot) A discord bot for Starcoin blockchain
+
+### Ecosystem Projects
+
+* [Elements-Studio/starswap-core](https://github.com/Elements-Studio/starswap-core) DEX
+* [wenwenprotocol/wen-protocol](https://github.com/wenwenprotocol/wen-protocol) Stablecoin
+* [BFlyFinance/FAI](https://github.com/BFlyFinance/FAI) Stablecoin
 
 ### Framework & Library
 
