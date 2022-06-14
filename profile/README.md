@@ -1,4 +1,4 @@
-![image](https://raw.githubusercontent.com/starcoinorg/.github/main/stc_new.png)
+![image](https://raw.githubusercontent.com/starcoinorg/.github/main/stc_new.jpg)
 
 ## Hey, this is Starcoin developer community 👋
 
