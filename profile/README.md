@@ -14,7 +14,6 @@ Starcoin - a smart contract blockchain network that scales by layering
 ### Move
 
 * [starcoin-framework](https://github.com/starcoinorg/starcoin-framework) Starcoin Move Framework
-* [starcoin-framework-commons](https://github.com/starcoinorg/starcoin-framework-commons) The Move commons library on starcoin-framework
 * [starcoin-ide](https://github.com/starcoinorg/starcoin-ide) A VSCode extenstion for starcoin Move development
 
 ### SDKs
@@ -65,3 +64,4 @@ Reach out to the developer community at one of the following places:
 ## Links
 
 * [awesome-move](https://github.com/MystenLabs/awesome-move) A curated list of code and content from the Move programming language community
+* [movefuns](https://github.com/movefuns/movefuns) The Move commons library for support multiple Move chains.
