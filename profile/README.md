@@ -40,7 +40,7 @@ Starcoin - a smart contract blockchain network that scales by layering
 ### Framework & Library
 
 * [xtor](https://github.com/starcoinorg/xtor) Xtor: An actor async actor framework
-
+* [openrpc-rs](https://github.com/starcoinorg/openrpc-rs): Rust implementation of openrpc Specification
 ### Documents
 
 * [starcoin-cookbook](https://github.com/starcoinorg/starcoin-cookbook) The Cookbook for Starcoin developer
